@@ -1,0 +1,17 @@
+{
+  "name": "tdd-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alaa Attya <alaa.attya91@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.3.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
